@@ -6,6 +6,7 @@ public class YourPracticeClass {
 		
 		System.out.println("Hello this is my Script of log in page");
 		System.out.println("Hello this is my Script of home page");
+		System.out.println("Hello this is my Script of product page");
 	}
 
 }
